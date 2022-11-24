@@ -1,9 +1,9 @@
 # IMPORTANT
 
-This repository is an archive of all development projects for a Minecraft RPG server called `EternalLand`. The only developers are [@justwei](https://github.com/xxxijustwei) and [@kirraObj](https://github.com/CziSKY), and In the middle of 2022 the project was cancelled for some reason.
+This repository is an archive of all development projects for a Minecraft RPG server called `EternalLand`. The only developers are [@justwei](https://github.com/xxxijustwei) and [@kirraObj](https://github.com/CziSKY) and in the middle of 2022, The project was cancelled for some reason.
 
-We decided to keep all its development stuff on this repository, Note that **we will not be doing maintenance or replying your issue**.
+We decided to leave all of its development materials on this repository. Please understand that **We will not be doing maintenance or replying to your issue**.
 
-You are probably able to find some useful code / development ideas in the repository. Most of the projects I maintain for maybe trashily written, especially in terms of part of hardcode.
+You might be able to find some useful code / development ideas in the repository. Some of the projects I maintain were very likely trashily written, particularly in terms of hardcode.
 
-The development time was the happiest time of my life so far, thank you so much [@justwei](https://github.com/xxxijustwei) and my ex-boss.
+The development period was the happiest of my life so far; thank you so much [@justwei](https://github.com/xxxijustwei) and to my ex-boss.
