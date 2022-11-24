@@ -6,4 +6,4 @@ We decided to keep all its development stuff on this repository, Note that **we 
 
 You may be able to find some useful code / development ideas in the repository. Most of the projects I'm responsible for maybe trashily written, especially in terms of part of hardcode.
 
-The development time was the happiest time of my life so far, thank you very much [@justwei](https://github.com/xxxijustwei) and my former boss.
+The development time was the happiest time of my life so far, thank you so much [@justwei](https://github.com/xxxijustwei) and my former boss.
